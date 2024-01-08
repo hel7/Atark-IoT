@@ -1,0 +1,4 @@
+C:\Users\Богдан\source\repos\atark_iot\x64\Debug\atark_iot.vcxproj.CopyComplete
+C:\Users\Богдан\source\repos\atark_iot\x64\Debug\atark_iot.exe
+C:\Users\Богдан\source\repos\atark_iot\x64\Debug\libcurl-d.dll
+C:\Users\Богдан\source\repos\atark_iot\x64\Debug\zlibd1.dll
